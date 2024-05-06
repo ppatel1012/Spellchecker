@@ -8,4 +8,4 @@ Slow for large files.\
 No valgrind errors\
 To run:\
 make\
-./checker [-l]\
+./checker [-l]
